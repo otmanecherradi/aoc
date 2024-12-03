@@ -12,5 +12,6 @@ mod tests {
     fn it_works() {
         start_day("01");
         start_day("02");
+        start_day("03");
     }
 }
