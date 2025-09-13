@@ -13,5 +13,7 @@ mod tests {
         start_day("01");
         start_day("02");
         start_day("03");
+        start_day("04");
+        start_day("05");
     }
 }
